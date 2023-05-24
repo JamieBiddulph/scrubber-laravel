@@ -15,7 +15,7 @@
     "illuminate/support": "^9.0|^10.0",
     "illuminate/database": "^9.0|^10.0",
     "illuminate/contracts": "^9.0|^10.0",
-    "clntdev/scrubber": "*"
+    "clntdev/scrubber": "dev-handle-composite-keys"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
